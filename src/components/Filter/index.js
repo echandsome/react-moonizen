@@ -5,6 +5,7 @@ import SearchBar from "../SearchBar";
 import SearchIcon from "../../assets/images/search-normal.svg"
 
 const Filter = (props) => {
+  
   return (
     <FilterStyled>
       <Box className="filter">

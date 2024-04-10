@@ -2,6 +2,7 @@ import { Box } from "@mui/material";
 import ImageBorderBoxStyled from "./index.styled";
 
 const ImageBorderBox = ({ image, ...props }) => {
+  
   return (
     <ImageBorderBoxStyled>
       <Box {...props} className={`image-border-box ${props.className ? props.className : ''}`}>

@@ -3,6 +3,7 @@ import AvatarStyled from './index.styled';
 import ImageAvatar from '../../assets/images/avatar.png'
 
 const Avatar = (props) => {
+  
   return (
     <AvatarStyled>
       <Box className='avatar-box'>

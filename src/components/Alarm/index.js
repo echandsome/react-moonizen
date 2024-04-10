@@ -4,6 +4,7 @@ import NotificationsIcon from '@mui/icons-material/NotificationsNone';
 import AlarmStyled from './index.styled';
 
 const Alarm = (props) => {
+  
   const [alarmCount, setAlarmCount] = useState(0);
 
   useEffect(() => {

@@ -4,6 +4,7 @@ import ContentCopyIcon from '@mui/icons-material/ContentCopy';
 import GradientBorderBox from "../GradientBorderBox";
 
 const AddressBox = ({ value }) => {
+  
   return (
     <AddressBoxStyled>
       <GradientBorderBox className="address-box">
