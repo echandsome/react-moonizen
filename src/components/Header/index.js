@@ -8,6 +8,7 @@ import { useTheme } from '@emotion/react';
 import { Menu } from '@mui/icons-material';
 
 const Header = ({ showSidebar, setShowSidebar }) => {
+  
   const theme = useTheme();
   const isXS = useMediaQuery(theme.breakpoints.down('md'));
 

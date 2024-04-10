@@ -6,6 +6,7 @@ import ImageModalAvatar from '../../../assets/images/modal-avatar.png';
 import Traits from "./Traits";
 
 const CollectionView = ({ isOpen, setIsOpen }) => {
+  
   return (
     <Modal open={isOpen} onClose={() => setIsOpen(false)}>
       <CollectionViewStyled>

@@ -6,6 +6,7 @@ import { Button, Dialog, DialogTitle, DialogContent, DialogActions } from '@mate
 import GenesisAside from '../Pages/Collection/GenesisAside';
 
 function SecondPage() {
+  
   const history = useHistory();
   const [open, setOpen] = useState(true);
 

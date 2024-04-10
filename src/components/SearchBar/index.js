@@ -4,6 +4,7 @@ import { InputBase } from '@mui/material';
 import GradientBorderBox from "../GradientBorderBox";
 
 const SearchBar = (props) => {
+  
   const [searchInput, setSearchInput] = useState('');
   const [inputVisible/*, setInputVisible*/] = useState(true);
 
