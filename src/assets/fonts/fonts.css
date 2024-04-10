@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300;400;500;600&family=Poppins:wght@400;500;600&display=swap');
+
+@font-face {
+    font-family: 'Space Ranger';
+    src: local('Space Ranger'), url('./space-rangle/spaceranger.ttf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Space Age';
+    src: local('Space Age'), url('./space-age/space-age.ttf') format('opentype');
+}

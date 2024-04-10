@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+  <circle cx="24" cy="24" r="23" fill="#02242f" style="mix-blend-mode:multiply"/>
+  <circle cx="24" cy="24" r="23" stroke="url(#paint0_linear_374_336)" stroke-width="0.5"/>
+  <circle cx="24" cy="24" r="9" stroke="#47C3C1" stroke-linejoin="round"/>
+  <circle cx="24" cy="15" r="9" stroke="#47C3C1" stroke-linejoin="round"/>
+  <circle cx="24" cy="33" r="9" stroke="#47C3C1" stroke-linejoin="round"/>
+  <circle cx="9.03758" cy="9.03758" r="9.03758" transform="matrix(-0.491232 -0.871029 -0.871029 0.491232 44.5 23.1877)" stroke="#47C3C1" stroke-linejoin="round"/>
+  <circle cx="16.3118" cy="19.7553" r="9.03758" transform="rotate(-60.5784 16.3118 19.7553)" stroke="#47C3C1" stroke-linejoin="round"/>
+  <circle cx="9.03758" cy="9.03758" r="9.03758" transform="matrix(-0.491232 -0.871029 -0.871029 0.491232 28.623 31.8274)" stroke="#47C3C1" stroke-linejoin="round"/>
+  <circle cx="32.1882" cy="28.395" r="9.03758" transform="rotate(-60.5784 32.1882 28.395)" stroke="#47C3C1" stroke-linejoin="round"/>
+  <defs>
+    <linearGradient id="paint0_linear_374_336" x1="1" y1="0.499999" x2="47" y2="46.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#47C3C1"/>
+      <stop offset="1" stop-color="#7B3FE4"/>
+    </linearGradient>
+  </defs>
+</svg>
